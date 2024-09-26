@@ -1,0 +1,136 @@
+[05-May-2024 22:25:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[05-May-2024 22:27:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[06-May-2024 04:07:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[06-May-2024 04:10:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[08-May-2024 23:07:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[08-May-2024 23:58:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[09-May-2024 01:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[09-May-2024 02:40:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[13-May-2024 23:01:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[14-May-2024 05:17:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[16-May-2024 03:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[16-May-2024 12:47:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[21-May-2024 21:01:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[22-May-2024 11:53:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[25-May-2024 14:08:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[26-May-2024 04:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[04-Jun-2024 03:18:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[04-Jun-2024 03:21:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[04-Jun-2024 03:28:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[04-Jun-2024 04:05:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[16-Jun-2024 00:11:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[16-Jun-2024 10:00:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[16-Jun-2024 21:26:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[17-Jun-2024 00:51:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[17-Jun-2024 01:31:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[17-Jun-2024 06:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[18-Jun-2024 08:18:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30
+[19-Jun-2024 08:10:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[20-Jun-2024 02:30:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[20-Jun-2024 11:16:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[24-Jun-2024 21:39:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/nvnfb7as/public_html/klientale.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/console.php on line 17
+[28-Jun-2024 02:20:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/api.php on line 17
+[28-Jun-2024 02:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/nvnfb7as/public_html/klientale.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/channels.php on line 16
+[28-Jun-2024 02:20:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/nvnfb7as/public_html/klientale.com/routes/web.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/routes/web.php on line 30

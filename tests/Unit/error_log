@@ -1,0 +1,40 @@
+[10-May-2024 01:30:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[11-May-2024 02:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[20-May-2024 15:47:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[16-Jun-2024 06:37:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[16-Jun-2024 17:10:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[18-Jun-2024 20:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[20-Jun-2024 21:11:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[22-Jun-2024 11:48:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[22-Jun-2024 20:52:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7
+[02-Jul-2024 04:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/tests/Unit/ExampleTest.php on line 7

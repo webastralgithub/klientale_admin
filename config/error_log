@@ -1,0 +1,356 @@
+[08-May-2024 11:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/services.php on line 18
+[08-May-2024 12:35:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/queue.php on line 16
+[08-May-2024 13:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/app.php on line 19
+[08-May-2024 16:16:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/hashing.php on line 32
+[08-May-2024 17:00:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php on line 16
+[08-May-2024 17:50:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/session.php on line 21
+[08-May-2024 21:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/database.php on line 18
+[09-May-2024 01:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php on line 18
+[09-May-2024 02:30:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/cache.php on line 18
+[09-May-2024 02:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/logging.php on line 21
+[09-May-2024 02:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/mail.php on line 16
+[09-May-2024 02:59:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[09-May-2024 04:08:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php on line 18
+[09-May-2024 05:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/nvnfb7as/public_html/klientale.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/view.php on line 17
+[13-May-2024 22:00:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/nvnfb7as/public_html/klientale.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/view.php on line 17
+[14-May-2024 18:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php on line 16
+[14-May-2024 21:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/queue.php on line 16
+[14-May-2024 22:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/logging.php on line 21
+[14-May-2024 23:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/hashing.php on line 32
+[15-May-2024 02:27:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[15-May-2024 17:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/session.php on line 21
+[16-May-2024 06:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/database.php on line 18
+[16-May-2024 07:02:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php on line 18
+[16-May-2024 16:17:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/mail.php on line 16
+[16-May-2024 21:13:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/cache.php on line 18
+[17-May-2024 02:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php on line 18
+[17-May-2024 03:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/app.php on line 19
+[22-May-2024 18:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/hashing.php on line 32
+[23-May-2024 11:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php on line 18
+[23-May-2024 11:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/services.php on line 18
+[23-May-2024 15:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/nvnfb7as/public_html/klientale.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/view.php on line 17
+[23-May-2024 17:24:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/session.php on line 21
+[23-May-2024 23:57:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/mail.php on line 16
+[24-May-2024 03:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php on line 16
+[24-May-2024 08:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[24-May-2024 11:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/cache.php on line 18
+[24-May-2024 16:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/logging.php on line 21
+[25-May-2024 02:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/database.php on line 18
+[25-May-2024 08:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/app.php on line 19
+[25-May-2024 08:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/queue.php on line 16
+[26-May-2024 15:49:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php on line 18
+[02-Jun-2024 22:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/app.php on line 19
+[02-Jun-2024 22:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php on line 18
+[02-Jun-2024 22:39:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/cache.php on line 18
+[02-Jun-2024 23:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/database.php on line 18
+[03-Jun-2024 00:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[03-Jun-2024 07:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php on line 16
+[03-Jun-2024 08:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/hashing.php on line 32
+[03-Jun-2024 09:02:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/logging.php on line 21
+[03-Jun-2024 12:26:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/mail.php on line 16
+[03-Jun-2024 13:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/queue.php on line 16
+[03-Jun-2024 14:02:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php on line 18
+[03-Jun-2024 15:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/services.php on line 18
+[03-Jun-2024 16:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/session.php on line 21
+[03-Jun-2024 20:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/nvnfb7as/public_html/klientale.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/view.php on line 17
+[15-Jun-2024 17:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php on line 18
+[15-Jun-2024 19:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[15-Jun-2024 19:53:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/session.php on line 21
+[15-Jun-2024 20:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[16-Jun-2024 08:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/cache.php on line 18
+[16-Jun-2024 09:18:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/queue.php on line 16
+[16-Jun-2024 10:10:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/services.php on line 18
+[16-Jun-2024 12:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[16-Jun-2024 12:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php on line 16
+[16-Jun-2024 13:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php on line 18
+[16-Jun-2024 13:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/session.php on line 21
+[16-Jun-2024 15:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/database.php on line 18
+[16-Jun-2024 15:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/nvnfb7as/public_html/klientale.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/view.php on line 17
+[16-Jun-2024 16:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/logging.php on line 21
+[16-Jun-2024 20:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/hashing.php on line 32
+[17-Jun-2024 00:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/app.php on line 19
+[17-Jun-2024 01:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php on line 18
+[17-Jun-2024 02:19:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/mail.php on line 16
+[17-Jun-2024 22:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/session.php on line 21
+[19-Jun-2024 07:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/broadcasting.php on line 18
+[19-Jun-2024 20:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/dompdf.php on line 48
+[20-Jun-2024 01:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/cache.php on line 18
+[20-Jun-2024 01:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/app.php on line 19
+[20-Jun-2024 01:27:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/sanctum.php on line 18
+[20-Jun-2024 03:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/filesystems.php on line 16
+[20-Jun-2024 03:12:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/database.php on line 18
+[20-Jun-2024 03:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/queue.php on line 16
+[20-Jun-2024 03:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/mail.php on line 16
+[20-Jun-2024 03:18:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/logging.php on line 21
+[20-Jun-2024 03:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/hashing.php on line 32
+[20-Jun-2024 03:30:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/services.php on line 18
+[28-Jun-2024 15:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/logging.php on line 21
+[07-Jul-2024 14:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nvnfb7as/public_html/klientale.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/mail.php on line 16
+[12-Jul-2024 03:41:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/nvnfb7as/public_html/klientale.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/config/view.php on line 17

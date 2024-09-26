@@ -1,0 +1,128 @@
+[11-May-2024 03:46:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[11-May-2024 06:39:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php on line 8
+[11-May-2024 12:44:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[11-May-2024 16:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10
+[11-May-2024 22:16:31 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[16-May-2024 01:00:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10
+[16-May-2024 21:13:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[17-May-2024 04:12:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[17-May-2024 06:04:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[18-May-2024 18:22:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[18-May-2024 20:23:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[18-May-2024 20:38:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10
+[18-May-2024 20:54:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[27-May-2024 16:12:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10
+[20-Jun-2024 03:23:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[20-Jun-2024 03:26:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Jun-2024 03:29:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[20-Jun-2024 03:34:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[20-Jun-2024 03:59:46 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[20-Jun-2024 04:42:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[20-Jun-2024 04:43:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[20-Jun-2024 07:31:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Jun-2024 12:16:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10
+[22-Jun-2024 13:43:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php on line 8
+[22-Jun-2024 17:49:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[22-Jun-2024 18:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10
+[22-Jun-2024 19:22:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php on line 8
+[22-Jun-2024 20:03:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10
+[22-Jun-2024 20:52:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[23-Jun-2024 03:40:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[23-Jun-2024 07:11:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[23-Jun-2024 07:34:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[23-Jun-2024 08:24:52 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[28-Jun-2024 11:36:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AuthServiceProvider.php on line 8
+[29-Jun-2024 02:30:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/AppServiceProvider.php on line 8
+[29-Jun-2024 02:30:17 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nvnfb7as/public_html/klientale.com/app/Providers/RouteServiceProvider.php on line 28
+[29-Jun-2024 08:23:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/BroadcastServiceProvider.php on line 8
+[29-Jun-2024 08:24:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Providers/EventServiceProvider.php on line 10

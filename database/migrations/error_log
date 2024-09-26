@@ -1,0 +1,260 @@
+[11-May-2024 03:29:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php on line 7
+[11-May-2024 04:49:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php on line 7
+[11-May-2024 07:38:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[11-May-2024 08:14:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php on line 7
+[11-May-2024 11:59:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-May-2024 14:03:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-May-2024 16:04:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-May-2024 16:45:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[11-May-2024 19:09:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php on line 7
+[11-May-2024 21:39:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php on line 7
+[11-May-2024 22:55:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php on line 7
+[17-May-2024 06:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php on line 7
+[17-May-2024 22:53:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[18-May-2024 17:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[19-May-2024 05:40:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[19-May-2024 09:31:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php on line 7
+[20-May-2024 02:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php on line 7
+[20-May-2024 04:47:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[20-May-2024 09:02:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php on line 7
+[20-May-2024 16:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php on line 7
+[20-May-2024 17:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[27-May-2024 05:39:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[27-May-2024 05:53:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php on line 7
+[27-May-2024 06:28:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[27-May-2024 07:42:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[28-May-2024 09:14:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[28-May-2024 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[28-May-2024 20:57:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php on line 7
+[28-May-2024 21:08:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php on line 7
+[28-May-2024 21:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php on line 7
+[28-May-2024 22:15:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[29-May-2024 00:51:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php on line 7
+[16-Jun-2024 10:02:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php on line 7
+[19-Jun-2024 08:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[19-Jun-2024 20:13:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[19-Jun-2024 21:37:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php on line 7
+[19-Jun-2024 21:38:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php on line 7
+[19-Jun-2024 21:43:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php on line 7
+[19-Jun-2024 21:44:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[20-Jun-2024 05:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[20-Jun-2024 05:58:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php on line 7
+[20-Jun-2024 06:14:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[21-Jun-2024 15:54:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[22-Jun-2024 05:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[22-Jun-2024 13:59:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2024 16:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php on line 7
+[22-Jun-2024 18:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[22-Jun-2024 19:30:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[22-Jun-2024 21:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php on line 7
+[22-Jun-2024 21:47:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jun-2024 00:40:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php on line 7
+[23-Jun-2024 04:02:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php on line 7
+[23-Jun-2024 04:50:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jun-2024 05:33:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php on line 7
+[24-Jun-2024 16:41:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[24-Jun-2024 18:58:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[24-Jun-2024 21:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_115136_add_membership_id_to_users_table.php on line 7
+[28-Jun-2024 11:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[28-Jun-2024 15:08:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_28_095029_create_membership_table.php on line 7
+[28-Jun-2024 17:40:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2024_02_27_073920_add_user_role_colume_under_the_user_table.php on line 7
+[29-Jun-2024 02:30:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php on line 7
+[29-Jun-2024 02:30:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Jun-2024 02:30:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[29-Jun-2024 02:30:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_104538_create_permission_tables.php on line 7
+[29-Jun-2024 02:30:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/database/migrations/2023_12_12_123733_create_permission_users_table.php on line 7

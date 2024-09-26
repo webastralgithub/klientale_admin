@@ -1,0 +1,24 @@
+[11-May-2024 16:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php on line 8
+[20-May-2024 06:40:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php on line 8
+[22-May-2024 02:40:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php on line 8
+[26-May-2024 04:13:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php on line 8
+[19-Jun-2024 21:24:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php on line 8
+[23-Jun-2024 03:35:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nvnfb7as/public_html/klientale.com/app/Exceptions/Handler.php on line 8
